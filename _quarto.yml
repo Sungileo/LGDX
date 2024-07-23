@@ -2,11 +2,10 @@ project:
   type: website
 
 website:
-  title: "LG전자 DX School"
+  title: <img src="lgedx_title.png" alt="LG EDX Title" class="title_img">
+
   navbar:
-    logo: "lglogo.png"
-    background: "black"
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
