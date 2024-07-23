@@ -1,12 +1,20 @@
 ---
-title: "LG전자 DX School"
+title: <span><br>LG전자 DX School<br>공식페이지 따라만들기</span>
+listing: 
+  type: grid
+  grid-columns: 2
+  grid-item-align: left
+  contents: posts
+  sort: "date desc"
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  image-placeholder: "https://placehold.jp/30/dd6699/ffffff/300x150.png?text=placeholder+image"
+  image-height: 250px
 ---
 
+<div class="rowbar"><span class="div-text">안녕하세요~</span></div>
 
-This is a Quarto website.
+<div class="img-center"><img src=></div>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
