@@ -1,5 +1,5 @@
 ---
-title: <span></span>
+title: <span> </span>
 listing: 
   type: grid
   grid-columns: 2
@@ -13,8 +13,17 @@ listing:
   image-height: 250px
 ---
 
+
 <div class="rowbar">
-  <span class="div-text">반갑습니다~<br> LG전자 DX School 1기 박성일 입니다.</span>
+  <span class="div-text">반갑습니다~<br> LG전자 DX School 1기 박성일 입니다.<br>공식 사이트 따라만들기를 하고 있어요.<br><br></span>
+
+
+<div class="button-container">
+  <button class="button-a">
+    <a class="gongsik-a" href="https://dxschool.co.kr/" target="_self">LG전자 DX School</a>
+  </button>
+</div>
+
 </div>
 
 <div class="img-center"><img src=></div>
