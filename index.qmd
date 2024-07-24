@@ -1,5 +1,5 @@
 ---
-title: <span><br>LG전자 DX School<br>공식페이지 따라만들기</span>
+title: <span></span>
 listing: 
   type: grid
   grid-columns: 2
@@ -13,7 +13,9 @@ listing:
   image-height: 250px
 ---
 
-<div class="rowbar"><span class="div-text">안녕하세요~</span></div>
+<div class="rowbar">
+  <span class="div-text">반갑습니다~<br> LG전자 DX School 1기 박성일 입니다.</span>
+</div>
 
 <div class="img-center"><img src=></div>
 
