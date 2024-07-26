@@ -11,6 +11,14 @@ listing:
   image-placeholder: "https://placehold.jp/30/dd6699/ffffff/300x150.png?text=placeholder+image"
 ---
 
+<head>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.body.style.zoom = "80%";
+        });
+    </script>
+</head>
+
 <img class="slider" src="https://cdn.imweb.me/upload/S2024042221b9fa192007d/8be94d2cdf2cb.png">
 
 
