@@ -1,9 +1,8 @@
 ---
 title: "About"
+toc: false
 ---
 
-About this site
+# 반갑습니다
 
-```{r}
-1 + 1
-```
+# 박성일입니다.

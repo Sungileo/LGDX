@@ -8,15 +8,19 @@ website:
   navbar:
     pinned: true
     right:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+
+      - href: about.qmd
+        text: About Me
+      - href: "https://dxschool.co.kr/"
+        text: 공식 홈페이지
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+
+    
 
 editor: visual
 
